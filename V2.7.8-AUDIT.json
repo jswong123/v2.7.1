@@ -1,0 +1,12 @@
+{
+  "files": 324,
+  "json_files": 234,
+  "js_files": 76,
+  "json_errors": [],
+  "javascript_syntax_errors": [],
+  "fixes": [
+    "Normalize fog unit sides via main.js getUnitSide",
+    "Draw fog before unit counters",
+    "Use stateAt for enemy visibility to honor controlled hexes"
+  ]
+}
